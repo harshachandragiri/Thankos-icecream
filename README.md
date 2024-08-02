@@ -1,4 +1,4 @@
 # Thankos-icecream
 Thankos website 
 <br>
-Author-HarshaChandragiri
+Author-HarshaVardhanChandragiri
